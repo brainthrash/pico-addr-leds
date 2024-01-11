@@ -5,7 +5,7 @@ Repo to share code for working with addressable LEDs on the Raspberry Pi Pico.
 - Pico W
 - Treedix Breakout Board
 - JST SM 3 Pin Connectors
-- Alitove WS2811 RGB LED Pixels
+- Alitove WS2811 5v RGB LED Pixels
 
 # JST Connections:
 - Red Wire (5V) - Pin 39 (VSYS)
